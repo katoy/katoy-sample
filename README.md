@@ -1,5 +1,6 @@
 
-![Build Status](https://travis-ci.org/katoy/katoy-sample.png)  
+[![Build Status](https://travis-ci.org/katoy/katoy-sample.png?branch=master)](https://travis-ci.org/katoy/katoy-sample)  
+
 
 
 Heroku で node.js + express
