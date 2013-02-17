@@ -2,7 +2,7 @@
 Heroku で node.js + express
 ============================
 
- 次の記事を参考にした。
+次の記事を参考にした。
  
  http://tacamy.hatenablog.com/entry/2013/02/16/235127  
  ＞Node.js + Express を Heroku で動かすまでの手順まとめ
@@ -11,11 +11,11 @@ Heroku で node.js + express
  ＞ HerokuアプリをGitHubにもプッシュする
  
 
-* heroku 上のアプリケーション  
+heroku 上のアプリケーション  
 　http://katoy-sample.herokuapp.com/
 
-commit 
-========
+commit 方法
+============
 
 heroku 
 
