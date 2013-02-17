@@ -13,7 +13,6 @@ Heroku で node.js + express
  [http://blog.ruedap.com/entry/20110129/git_heroku_app_push_github](http://blog.ruedap.com/entry/20110129/git_heroku_app_push_github)  
  ＞ HerokuアプリをGitHubにもプッシュする
  
-
 heroku 上のアプリケーション  
 　[http://katoy-sample.herokuapp.com/](http://katoy-sample.herokuapp.com/)  
 
@@ -39,3 +38,4 @@ github
 - gitgub への commit
 
     $ git push origin master 
+

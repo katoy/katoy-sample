@@ -40,5 +40,6 @@ function start(port) {
 };
 exports.start = start;
 
-start();
+port = process.env.PORT || 3000;
+start(port);
    
