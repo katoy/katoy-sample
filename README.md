@@ -1,5 +1,5 @@
 
-![Build Status](https://travis-ci.org/katoy/katoy-sample.png)](https://travis-ci.org/katoy/katoy-sample)
+![Build Status](https://travis-ci.org/katoy/katoy-sample.png)  
 
 
 Heroku で node.js + express
@@ -7,7 +7,7 @@ Heroku で node.js + express
 
 次の記事を参考にした。
  
- [http://tacamy.hatenablog.com/entry/2013/02/16/235127](http://tacamy.hatenablog.com/entry/2013/02/16/235127)
+ [http://tacamy.hatenablog.com/entry/2013/02/16/235127](http://tacamy.hatenablog.com/entry/2013/02/16/235127)  
  ＞Node.js + Express を Heroku で動かすまでの手順まとめ
  
  [http://blog.ruedap.com/entry/20110129/git_heroku_app_push_github](http://blog.ruedap.com/entry/20110129/git_heroku_app_push_github)  
