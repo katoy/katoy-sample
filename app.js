@@ -30,6 +30,15 @@ app.configure('development', function(){
 app.get('/', routes.index);
 app.get('/users', user.list);
 
-http.createServer(app).listen(app.get('port'), function(){
-  console.log("Express server listening on port " + app.get('port'));
-});
+function start(port) {
+    if (!port) {
+        port = 3000;
+    }
+    http.createServer(app).listen(port, function(){
+        console.log("Express server listening on port " + port);
+    })
+};
+exports.start = start;
+
+start();
+   
