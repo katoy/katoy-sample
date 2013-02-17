@@ -29,7 +29,7 @@ heroku
 
     $ git remote add heroku git@heroku.com:katoy-sample.git
 
-  heroku への commit 
+- heroku への commit 
 
 
     $ git push heroku master 
