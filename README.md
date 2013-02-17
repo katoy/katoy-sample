@@ -5,7 +5,7 @@
 Heroku で node.js + express
 ============================
 
-heroku 上で node.js + express でサービスを公開する実験をしました。  
+heroku 上で node.js + express で作成したサービスを公開する実験をしました。  
 
 次の記事を参考にしています。  
  
