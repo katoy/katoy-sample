@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/katoy/katoy-sample.png?branch=master)](https://travis-ci.org/katoy/katoy-sample)  
+[![Build Status](https://travis-ci.org/katoy/katoy-sample.png?branch=master)](https://travis-ci.org/katoy/katoy-sample) [![Greenkeeper badge](https://badges.greenkeeper.io/katoy/katoy-sample.svg)](https://greenkeeper.io/)  
 
 
 Heroku で node.js + express
